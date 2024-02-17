@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include "Clothing.cpp"
 
 using namespace std;
 
@@ -36,7 +35,7 @@ public:
         cout << "INPUT THE DETAIL OF SHIRT : \n";
         cout << "ID Product: ";
         int id; cin >> id;
-        cout << "Name: ";
+        cout << "Name: \n";
         string name; getline(cin, name);
         cout << "Brand: ";
         string brand; getline(cin, brand);

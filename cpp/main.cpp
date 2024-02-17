@@ -11,5 +11,5 @@ int main(){
     Shirt shirt2;
     Shirt shirt3;
 
-    
+    shirt1.inputDataShirt();
 }

@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include "Product.cpp"
 
 using namespace std;
 
